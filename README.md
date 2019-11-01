@@ -31,3 +31,5 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+[![Edit store-without-vuex](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/store-without-vuex-yhdlz?fontsize=14)
