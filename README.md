@@ -1,6 +1,12 @@
-# test-project
+# Store without VueX
 
 > A Vue.js project
+
+Simple implementation of a store without the overhead of adding VueX.
+
+Inspired by:
+https://vuedose.tips/tips/creating-a-store-without-vuex-in-vue-js-2-6
+https://vuejs.org/v2/api/#Vue-observable
 
 ## Build Setup
 
