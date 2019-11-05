@@ -1,6 +1,6 @@
 # Store without VueX
 
-> A Vue.js project
+> You don't need VueX for a rudimentary shopping cart or to share just a single piece of data across several components. Observable to the rescue!
 
 Simple implementation of a store without the overhead of adding VueX.
 
